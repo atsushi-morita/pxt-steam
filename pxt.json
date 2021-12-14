@@ -1,0 +1,29 @@
+{
+    "name": "psw_steam",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "mb.ts",
+        "rk2sw2sw1.ts",
+        "ds1.ts",
+        "ir2.ts",
+        "en1.ts",
+        "sl1.ts",
+        "tp2.ts",
+        "ds18b20/ds18b20.ts",
+        "ds18b20/ds18b20.cpp",
+        "_locales/ja/stem-strings.json",
+        "_locales/ja/psw_steam-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts",
+        "test.blocks"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:6a4b7de1-fee5-46ce-184c-7bbc11243fd9"
+}
